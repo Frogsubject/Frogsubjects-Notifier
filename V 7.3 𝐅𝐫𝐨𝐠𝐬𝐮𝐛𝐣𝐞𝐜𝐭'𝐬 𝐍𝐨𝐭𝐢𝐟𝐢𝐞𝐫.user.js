@@ -10,14 +10,12 @@
 (function() {
     'use strict';
 
-    // Retrieve stored last-notified count from localStorage (default to 0)
     let lastNotificationCount = localStorage.getItem('lastNotificationCount') !== null
         ? parseInt(localStorage.getItem('lastNotificationCount'))
         : 0;
     const basetitle = document.title;
-    let apiCount = 0; // This variable will hold the API's current count
+    let apiCount = 0;
 
-    // Check the API count and trigger a notification if the count has increased
     function checkNotifications() {
         if (apiCount !== lastNotificationCount) {
             if (apiCount > lastNotificationCount && Notification.permission === "granted") {
@@ -33,7 +31,6 @@
         document.title = apiCount === 0 ? basetitle : `(${apiCount}) ${basetitle}`;
     }
 
-    // Request notification permission if not already granted
     if (Notification.permission !== "granted") {
         Notification.requestPermission();
     }
@@ -53,8 +50,6 @@
         .catch(error => console.error("Error fetching notifications:", error));
     }
 
-    // Refresh the notifications from the API every 5 seconds
     setInterval(refreshNotifications, 1000);
-    // Do an immediate refresh when the script loads
     refreshNotifications();
 })();
