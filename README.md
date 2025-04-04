@@ -17,7 +17,7 @@ Script by Frogsubject
 ### **💻 How to Install:**
 - Install [Tampermonkey](https://www.tampermonkey.net/)
 
-- Go to the [Script](https://github.com/Frogsubject/Frogsubjects-Notifier/blob/main/SCRIPT.user.js](https://github.com/Frogsubject/Frogsubjects-Notifier/blob/main/V%207.3%20%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AC%F0%9D%90%AE%F0%9D%90%9B%F0%9D%90%A3%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AD'%F0%9D%90%AC%20%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AB.user.js)) and click "RAW" or "View RAW File"
+- Go to the [Script](https://github.com/Frogsubject/Frogsubjects-Notifier/blob/main/V%207.3%20%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AC%F0%9D%90%AE%F0%9D%90%9B%F0%9D%90%A3%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AD'%F0%9D%90%AC%20%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%AB.user.js) and click "RAW" or "View RAW File"
 
 - Press install
 
