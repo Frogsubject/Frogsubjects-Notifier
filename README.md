@@ -17,7 +17,7 @@ Script by Frogsubject
 ### **💻 How to Install:**
 - Install [Tampermonkey](https://www.tampermonkey.net/)
 
-- Go to the [Script](https://github.com/Frogsubject/Frogsubjects-Notifier/blob/main/SCRIPT) and click "RAW" or "View RAW File"
+- Go to the [Script](https://github.com/Frogsubject/Frogsubjects-Notifier/blob/main/SCRIPT.user.js) and click "RAW" or "View RAW File"
 
 - Press install
 
