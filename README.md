@@ -24,9 +24,8 @@ Script by Frogsubject
 - Done!
 ---
 ### **🔧 Configure:**
-Change the username (userName = 'frogsubject') to your Scratch username
-
-Custom notification icon? Just swap the image URL!
+- Change the username (userName = 'frogsubject') to your Scratch username
+- Custom notification icon? Just swap the image URL!
 ---
 ### **💖 Support Me!**
 If you like this script and want to support me in anyway:
